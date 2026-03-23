@@ -21,6 +21,7 @@ where `XX` is the two‑letter country code (e.g. `US`, `GB`, `IT`, `DE`, …).
 
 ---
 
+## 📺 How to Use
 
 1. **Download** the playlist file(s) you want.
 2. **Open** with any IPTV‑compatible player, such as:
